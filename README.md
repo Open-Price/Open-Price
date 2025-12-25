@@ -12,6 +12,20 @@ Just real prices, reported by real people.
 
 ---
 
+## Mission
+
+Open-Price exists to give consumers visibility into real-world pricing without surveillance, manipulation, or coercion.
+
+We believe pricing transparency is a public good. Today’s markets increasingly rely on opaque algorithms, individualized pricing, and data extraction that disadvantage consumers.
+
+Open-Price is a privacy-first, open-source platform for crowd-sourced price reporting across stores and locations. It works without accounts, without tracking, and without advertising.
+
+Our goal is to empower individuals and communities with shared knowledge, not to extract value from them.
+
+If a feature cannot be built without compromising privacy or transparency, it will not be built.
+
+---
+
 ## Why This Project Exists
 
 Consumers increasingly face:
