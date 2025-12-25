@@ -2,7 +2,7 @@
 Founding Document
 Working Title: OpenPrice (TBD)
 Version: 1.0
-Date: December 2025
+Date: December 25, 2025
 1. Purpose & Vision
 The purpose of this project is to create a consumer-first, privacy-respecting pricing transparency app that empowers individuals to understand what products cost in real places, at real times, without being surveilled, profiled, or exploited.
 Modern consumers face increasingly opaque and manipulative pricing practices, including surveillance pricing, algorithmic discrimination, and location-based price manipulation. Prices vary not only by store and region, but by who you are, what device you use, and what data corporations have collected about you. This app exists to restore pricing transparency by shifting power back to consumers through crowd-sourced, verifiable, and openly governed price data.
